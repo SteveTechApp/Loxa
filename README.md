@@ -1,0 +1,2 @@
+# Loxa
+Multilingual Chat app
